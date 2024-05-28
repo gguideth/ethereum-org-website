@@ -409,6 +409,15 @@
     "endDate": "2024-9-22",
     "imageUrl": "https://ethglobal.com/og.png"
   },
+   {
+    "title": "ETHMilan",
+    "to": "https://ethmilan.xyz",
+    "location": "Milan, Italy",
+    "description": "Italy's largest ETH Conference makes a comeback! Enjoy two days of talks, workshops, and deep dives into Ethereum technology, with a focus on creative industries and bringing creators on-chain. Don't miss the hackathon!",
+    "startDate": "2024-9-26",
+    "endDate": "2024-9-27",
+    "imageUrl": ""
+  },
   {
     "title": "Pragma San Francisco",
     "to": "https://ethglobal.com/events/pragma-sanfrancisco",
